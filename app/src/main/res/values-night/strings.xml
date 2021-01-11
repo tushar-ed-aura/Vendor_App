@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_screen_drawable">Login Screen drawable</string>
+    <string name="welcome_back">Welcome Back,</string>
+    <string name="enter_credentials_to_continue">Enter Credentials to continue</string>
+</resources>

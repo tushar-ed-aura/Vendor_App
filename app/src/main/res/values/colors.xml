@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="login_btn_back">#003567</color>
+    <color name="grey_color">#FF777575</color>
+    <color name="facebook_back">#0E79CD</color>
+    <color name="textColor">#FF000000</color>
+    <color name="google_back">#F65D42</color>
+</resources>

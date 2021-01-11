@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vendor App</string>
+    <string name="login_screen_drawable">Login Screen drawable</string>
+    <string name="welcome_back">Welcome Back,</string>
+    <string name="enter_credentials_to_continue">Enter Credentials to continue</string>
+    <string name="facebook">Facebook</string>
+</resources>
